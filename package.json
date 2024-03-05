@@ -1,0 +1,34 @@
+{
+  "name": "hyper-design-stillgoing-util2",
+  "version": "1.0.0",
+  "description": "fatser stillgoing utils2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "dxf-parsing": "^0.3.7",
+    "gm": "~1.17.0",
+    "hyper-design-stillgoing-util": "^1.0.0",
+    "underscore": "~1.7.0",
+    "xml2js": "~0.4.4",
+    "xmlbuilder": "^2.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowsaer/tea-going_part2.git"
+  },
+  "keywords": [
+    "design",
+    "svg",
+    "util",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lowsaer/tea-going_part2/issues"
+  },
+  "homepage": "https://github.com/lowsaer/tea-going_part2#readme"
+}
